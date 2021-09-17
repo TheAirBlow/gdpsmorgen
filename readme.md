@@ -3,7 +3,7 @@ This is a fanmade mod which has music replaced by mask.beats GD music Morgenshte
 Also has some graphics changes, like the player textures, etc.
 
 ## Android
-Click [here](https://github.com/TheAirBlow/gdpsmorgen/releases/) and download the last one.
+Click [here](https://github.com/TheAirBlow/gdpsmorgen/releases/) and download the latest one.
 
 ## PC (Any platform)
 1) Download the repo
