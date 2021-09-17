@@ -1,10 +1,27 @@
-# GDPS Morgenshtern Edition
-This is a fanmade for GDPS which has music replaced by mask.beats GD music (with Morgenshtern).</br>
+# Geometry Dash Morgenshtern Edition
+This is a fanmade mod which has music replaced by mask.beats GD music Morgenshtern mash-ups.</br>
 Also has some graphics changes, like the player textures, etc.
 
-## Building APK
-If you use Linux, you can just run `apk.sh` file.</br>
-For Windows users - fuck you.
+## Android
+Click [here](https://github.com/TheAirBlow/gdpsmorgen/releases/) and download the last one.
+
+## PC (Any platform)
+1) Download the repo
+2) Copy the assets from repo
+3) Paste them into assets of your GD installation.
+
+## Build mod by yourself
+**This section is Android only.**
+
+### GDPS
+1) Download the repo
+2) For linux users, run `apk.sh` file. FUCK WINDOWS!
+
+### Any other version
+1) Download the repo
+2) Run `apktool d <filename>.apk` on your GD APK
+2) Copy the assets from repo
+3) Paste them into assets of `<filename>` directory.
 
 ## Credits
 * TheAirBlow - Mod
